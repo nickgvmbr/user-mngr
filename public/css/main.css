@@ -1,0 +1,11 @@
+section {
+  margin-top: 32px;
+}
+
+input[type='submit'] {
+  margin-top: 12px;
+}
+
+#remove {
+  color: #d64541;
+}
